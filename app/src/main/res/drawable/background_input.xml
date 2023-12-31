@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Set the solid color for the shape -->
+    <solid android:color="@color/icon_background"></solid> <!-- Replace with your desired color code or reference -->
+
+    <!-- Set the corner radius for rounded corners -->
+    <corners android:radius="8dp"/>
+
+</shape>
